@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+transformers
+sentence-transformers
+weaviate-client
+python-dotenv
+numpy
+

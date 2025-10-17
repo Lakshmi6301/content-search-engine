@@ -1,0 +1,76 @@
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: center;
+  margin-top: 80px;
+}
+
+h1 {
+  color: #58a6ff;
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 10px 15px;
+  width: 400px;
+  border: none;
+  border-radius: 8px 0 0 8px;
+  outline: none;
+  background-color: #161b22;
+  color: #c9d1d9;
+  font-size: 16px;
+}
+
+button {
+  background-color: #238636;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 0 8px 8px 0;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #2ea043;
+}
+
+.results {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.result-card {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 20px;
+  width: 70%;
+  margin: 10px 0;
+  text-align: left;
+}
+
+.result-card h3 {
+  color: #58a6ff;
+}
+
+.error {
+  color: #f85149;
+}
+
+.no-results {
+  color: #8b949e;
+}
