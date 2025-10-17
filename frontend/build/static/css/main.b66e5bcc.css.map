@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b66e5bcc.css","mappings":"0FAIA,cAAc,CACd,oBAAoB,CACpB,mBAAmB","sources":["index.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');\r\n\r\n\r\n\r\n@tailwind base;\r\n@tailwind components;\r\n@tailwind utilities;\r\n\r\n\r\n\r\n"],"names":[],"sourceRoot":""}

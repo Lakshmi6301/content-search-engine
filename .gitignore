@@ -1,5 +1,16 @@
-backend/venv/
+# Python
+venv/
 __pycache__/
 *.pyc
-frontend/node_modules/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Environment files
 .env
+
+# OS / IDE
+.DS_Store
+.vscode/
